@@ -1,0 +1,124 @@
+1
+00:00:00,350 --> 00:00:03,010
+O jornal diz: o Ibovespa subiu,
+
+2
+00:00:03,030 --> 00:00:04,510
+o Ibovespa caiu.
+
+3
+00:00:05,030 --> 00:00:06,584
+Mas o que é isso?
+
+4
+00:00:06,784 --> 00:00:08,424
+Pensa num termômetro que mede a
+
+5
+00:00:08,444 --> 00:00:09,989
+temperatura da Bolsa.
+
+6
+00:00:10,189 --> 00:00:12,469
+O Ibovespa é uma cesta com as ações mais
+
+7
+00:00:12,489 --> 00:00:14,437
+negociadas da B3.
+
+8
+00:00:14,637 --> 00:00:15,977
+São 76 ações,
+
+9
+00:00:15,997 --> 00:00:17,917
+de empresas como Vale,
+
+10
+00:00:17,937 --> 00:00:19,529
+Itaú e Petrobras.
+
+11
+00:00:19,730 --> 00:00:21,800
+Cada ação tem um peso.
+
+12
+00:00:21,850 --> 00:00:23,450
+A maior, a Vale,
+
+13
+00:00:23,510 --> 00:00:25,980
+é quase 12% da cesta.
+
+14
+00:00:26,180 --> 00:00:27,900
+Se as mais pesadas sobem,
+
+15
+00:00:27,950 --> 00:00:29,800
+o termômetro sobe.
+
+16
+00:00:29,850 --> 00:00:31,890
+Se caem, ele cai.
+
+17
+00:00:32,090 --> 00:00:34,500
+O resultado sai em pontos.
+
+18
+00:00:34,550 --> 00:00:36,600
+Nasceu em 1968,
+
+19
+00:00:36,650 --> 00:00:39,710
+e a lista muda a cada quatro meses.
+
+20
+00:00:39,910 --> 00:00:41,990
+Mas atenção: é uma média.
+
+21
+00:00:42,710 --> 00:00:44,000
+Sua ação pode cair
+
+22
+00:00:44,020 --> 00:00:45,770
+com o Ibovespa subindo.
+
+23
+00:00:45,971 --> 00:00:48,491
+Dado do dia: em 11 de novembro,
+
+24
+00:00:48,511 --> 00:00:50,471
+ele fechou em 172.060 pontos,
+
+25
+00:00:50,491 --> 00:00:54,264
+alta de 0,42%.
+
+26
+00:00:54,464 --> 00:00:57,044
+Pra acompanhar: um, olhe o ano,
+
+27
+00:00:57,064 --> 00:00:58,054
+não o dia.
+
+28
+00:00:58,250 --> 00:01:01,600
+Dois, compare seus investimentos com ele.
+
+29
+00:01:01,650 --> 00:01:04,840
+Três, não aposte tudo numa ação só.
+
+30
+00:01:05,044 --> 00:01:08,344
+Salva esse vídeo. Conteúdo educativo,
+
+31
+00:01:08,364 --> 00:01:10,279
+não é recomendação.
+
