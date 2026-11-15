@@ -1,0 +1,116 @@
+1
+00:00:00,350 --> 00:00:02,550
+Cem por cento do CDI...
+
+2
+00:00:02,570 --> 00:00:04,375
+mas o que é esse tal de CDI?
+
+3
+00:00:04,575 --> 00:00:05,760
+Pensa numa régua:
+
+4
+00:00:05,780 --> 00:00:07,300
+é com ela que a renda fixa
+
+5
+00:00:07,320 --> 00:00:09,389
+mede quanto o seu dinheiro rende.
+
+6
+00:00:09,589 --> 00:00:11,949
+O CDI é a taxa que os bancos cobram
+
+7
+00:00:11,969 --> 00:00:14,069
+quando emprestam dinheiro uns pros outros,
+
+8
+00:00:14,089 --> 00:00:15,525
+de um dia pro outro.
+
+9
+00:00:15,725 --> 00:00:17,525
+Ele anda colado na Selic,
+
+10
+00:00:17,545 --> 00:00:19,100
+a taxa básica de juros
+
+11
+00:00:19,120 --> 00:00:20,729
+que o Banco Central define.
+
+12
+00:00:20,929 --> 00:00:23,900
+Exemplo: um CDB de 100% do CDI
+
+13
+00:00:23,920 --> 00:00:25,900
+rende igual à régua.
+
+14
+00:00:25,920 --> 00:00:29,727
+Com 110%, rende dez por cento a mais.
+
+15
+00:00:29,927 --> 00:00:32,087
+Com 80% do CDI,
+
+16
+00:00:32,207 --> 00:00:33,167
+rende menos.
+
+17
+00:00:33,887 --> 00:00:36,829
+O número antes do CDI é o que importa.
+
+18
+00:00:37,029 --> 00:00:41,389
+Mas atenção: a taxa é ao ano e antes do imposto.
+
+19
+00:00:41,409 --> 00:00:44,421
+E se a Selic cai, o CDI cai junto.
+
+20
+00:00:44,621 --> 00:00:49,361
+Dado do dia: o CDI está em 13,65% ao ano,
+
+21
+00:00:49,381 --> 00:00:52,430
+com a Selic em 13,75%.
+
+22
+00:00:52,450 --> 00:00:54,200
+Pra começar: um,
+
+23
+00:00:54,220 --> 00:00:56,100
+veja quantos por cento do CDI
+
+24
+00:00:56,120 --> 00:00:57,602
+o investimento paga.
+
+25
+00:00:57,802 --> 00:01:00,900
+Dois, desconte o imposto de renda.
+
+26
+00:01:00,920 --> 00:01:02,700
+Três, veja em quanto tempo
+
+27
+00:01:02,720 --> 00:01:04,097
+dá pra resgatar.
+
+28
+00:01:04,297 --> 00:01:07,597
+Salva esse vídeo. Conteúdo educativo,
+
+29
+00:01:07,617 --> 00:01:09,538
+não é recomendação.
+
